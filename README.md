@@ -1,3 +1,3 @@
 ## Screenshot
 
-![Application Menu](menu.png)
+![Application Menu](screenshot.png)
